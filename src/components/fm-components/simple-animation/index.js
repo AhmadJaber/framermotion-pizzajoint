@@ -1,5 +1,5 @@
 import React from 'react';
 
 export const SimpleAnimation = () => {
-  return <div>SimpleAnimation</div>;
+  return <div className='bg-white h-[100vh]'>SimpleAnimation</div>;
 };
